@@ -52,7 +52,7 @@ y trabajar con [Flowise](https://docs.flowiseai.com/) para implementar
 soluciones AI expuestas atraves de una API.
 Flowise es una herramienta basada en [LangChain](https://docs.langchain.com/docs/),
 por lo que además deberás poder entender los conceptos fundamentales de esta
-herramienta.
+herramienta..
 
 - [ ] [Flowise basics](https://www.youtube.com/watch?v=tD6fwQyUIJE&list=PL4HikwTaYE0HDOuXMm5sU6DH6_ZrHBLSJ)
 - [ ] [Langchain Components](https://docs.langchain.com/docs/category/components)
