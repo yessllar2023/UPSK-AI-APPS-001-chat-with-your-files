@@ -49,7 +49,7 @@ herramientas disponibles para darle esta capacidades a tu chatbot.
 Familiarizarse con los principales conceptos alrededor de la
 [Inteligencia Artificial Generativa](https://es.wikipedia.org/wiki/Inteligencia_artificial_generativa)
 y trabajar con [Flowise](https://docs.flowiseai.com/) para implementar
-soluciones AI expuestas atraves de una API.
+soluciones AI expuestas atraves de una API..
 Flowise es una herramienta basada en [LangChain](https://docs.langchain.com/docs/),
 por lo que además deberás poder entender los conceptos fundamentales de esta
 herramienta..
